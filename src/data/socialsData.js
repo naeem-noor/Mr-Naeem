@@ -1,6 +1,6 @@
 export const socialsData = {
     github: 'https://github.com/naeem-noor',
-    facebook: '',
+    facebook: 'https://www.facebook.com/maliknaeemnoor',
     linkedIn: 'https://www.linkedin.com/in/naeem-noor/',
     instagram: 'https://www.instagram.com/naeemnoorawan/',
     codepen: '',

@@ -27,7 +27,7 @@ const Works = () => {
             </a>
           </div>
         ))}
-      </div>
+      </div> 
       {/* <button className="workBtn">See More</button> */}
     </section>
   );
