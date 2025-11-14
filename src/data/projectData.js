@@ -1,5 +1,5 @@
 import Portfolio1 from "../assets/projects/aevent.png";
-import Portfolio2 from "../assets/projects/amazon-clone.png";
+import Portfolio2 from "../assets/projects/sova-serve.png";
 import Portfolio3 from "../assets/projects/currinda.png";
 import Portfolio4 from "../assets/projects/priceOye.png";
 
@@ -28,9 +28,9 @@ const projectData = [
   {
     id: 4,
     title:
-      "This project is the clone of Amazon Clone built for React Js learnig. It simulates the functionality of an e-commerce website from landing page to checkout. I use Firebase for database connection and Stripe for payment methode.",
+      "NovaServe is a clean, responsive HTML/CSS business landing page template built for startups, SaaS, and agencies.It's fast, lightweight, and fully responsive — perfect for showcasing your product or service.",
     image: Portfolio2,
-    link: "https://amazon-clone-demo.com/",
+    link: "https://naeem-noor.github.io/nova-serve-landingpage-html-css/",
   },
 ];
 
