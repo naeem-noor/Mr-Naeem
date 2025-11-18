@@ -30,7 +30,7 @@ const projectData = [
     title:
       "NovaServe is a clean, responsive HTML/CSS business landing page template built for startups, SaaS, and agencies.It's fast, lightweight, and fully responsive — perfect for showcasing your product or service.",
     image: Portfolio2,
-    link: "https://naeem-noor.github.io/nova-serve-landingpage-html-css/",
+    link: "https://nova-serve.netlify.app/",
   },
 ];
 
